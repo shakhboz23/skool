@@ -1,0 +1,122 @@
+$CA1: #a1a1a1;
+$CE0: #e0e0e0;
+$C07: #070707;
+$C2A: #2a85ff;
+$CF2: #f2f2f2;
+$CBC: #bcdeff;
+$C59: #59acff;
+$CF0F: #f0f5fa;
+$CD9: #d9ecff;
+$C91: #919191;
+$C00: #000000;
+$C6F: #6fcf97;
+$CEB: #eb5757;
+
+._c00 {
+  color: $C00;
+}
+
+._c91 {
+  color: $C91;
+}
+._ca1 {
+  color: $CA1;
+}
+
+._ce0 {
+  color: $CE0;
+}
+
+._c07 {
+  color: $C07;
+}
+
+._cf2 {
+  color: $CF2;
+}
+
+._c2bc {
+  color: $CBC;
+}
+
+._c2a {
+  color: $C2A;
+}
+
+._c59 {
+  color: $C59;
+}
+
+._ceb {
+  color: $CEB;
+}
+
+._cf0f {
+  color: $CF0F;
+}
+
+._cd9 {
+  color: $CD9;
+}
+
+.b_cd9 {
+  background: $CD9;
+}
+
+.b_cf0f {
+  background: $CF0F;
+}
+
+.b_ca1 {
+  background: $CA1;
+}
+
+.b_ce0 {
+  background: $CE0;
+}
+
+.b_c07 {
+  background: $C07;
+}
+
+.b_c2a {
+  background: $C2A;
+}
+
+.b_cf2 {
+  background: $CF2;
+}
+
+.b_cbc {
+  background: $CBC;
+}
+
+.b_c59 {
+  background: $C59;
+}
+
+.b_c6f {
+  background: $C6F;
+}
+
+.bg_loading {
+  background: $CF2;
+}
+
+.border_ce0 {
+  border: 1px solid $CE0;
+}
+
+.border_cf2 {
+  border: 1px solid $CF2;
+}
+
+.border_cbc {
+  border: 1px solid $CBC;
+}
+
+.bg_white {
+  .el-dropdown-menu__item {
+    background: #ffffff !important;
+  }
+}

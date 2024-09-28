@@ -1,0 +1,51 @@
+[33m26aeed1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m9826d67[m HEAD@{1}: reset: moving to HEAD~1
+[33m8699e7c[m HEAD@{2}: reset: moving to HEAD~1
+[33mf798616[m HEAD@{3}: reset: moving to HEAD~1
+[33m02f50cc[m HEAD@{4}: commit: New commit message
+[33mf798616[m HEAD@{5}: reset: moving to HEAD~1
+[33m0b47da5[m HEAD@{6}: commit: write modal archive
+[33mf798616[m HEAD@{7}: commit: community
+[33m8699e7c[m HEAD@{8}: commit: reset password
+[33m9826d67[m HEAD@{9}: commit: finished lang and updated UI
+[33m26aeed1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{10}: commit: removed uz_ru
+[33me89714e[m HEAD@{11}: commit: translate
+[33m70dd7d4[m HEAD@{12}: commit: upload to server
+[33mfe6002a[m HEAD@{13}: commit: fixed (added pages, and some updates)
+[33mb7849d6[m HEAD@{14}: commit: updated chat post comment
+[33mcb2b04f[m HEAD@{15}: commit: updated errors
+[33mbb8b4eb[m HEAD@{16}: commit: profile
+[33m78cc8c2[m HEAD@{17}: commit: leaderboard integrated
+[33mea76fcd[m HEAD@{18}: commit: calendar updated and course drip off status
+[33ma4df396[m HEAD@{19}: commit: updated calendar events and drip course module
+[33mc08b3ff[m HEAD@{20}: commit: classroom slug
+[33md8dd50c[m HEAD@{21}: commit: classroom slug (module, set)
+[33mc2f37ae[m HEAD@{22}: commit: course, lesson, module api
+[33m2dccf64[m HEAD@{23}: commit: leaderboards, group settings
+[33m238a5db[m HEAD@{24}: commit: members role, about role management, link
+[33m5ff2eab[m HEAD@{25}: commit: like, comment, pinned
+[33mfbd2b3e[m HEAD@{26}: commit: post like and comment integration
+[33mc913505[m HEAD@{27}: commit: integrated post poll edit, delete, create
+[33me84af2d[m HEAD@{28}: commit: updated about page
+[33mf080d5a[m HEAD@{29}: commit: updated about page
+[33m7ab1d8b[m HEAD@{30}: commit: write something UI, responsive, loading animation
+[33m1671571[m HEAD@{31}: commit: write content updated and community chat responsive
+[33m5fc65e1[m HEAD@{32}: commit: members modal responsive and community integrated
+[33ma65520a[m HEAD@{33}: commit: responsive finished
+[33m8161a22[m HEAD@{34}: commit: user profile activity and profile image integration
+[33mce1d847[m HEAD@{35}: commit: integrated settings page
+[33md1b0c77[m HEAD@{36}: commit: chat send a text message integrated
+[33mfcf0021[m HEAD@{37}: commit: classroom api integrated, update, delete
+[33ma8561e9[m HEAD@{38}: commit: classroom modules integrated create and update
+[33mca5d00d[m HEAD@{39}: commit: added members modal UI and chat UI
+[33ma154082[m HEAD@{40}: commit: added Members modal UI
+[33m44084b1[m HEAD@{41}: commit: members UI and event integrated
+[33m55e9b7c[m HEAD@{42}: commit: Editor UI and Event add integration
+[33m85b6276[m HEAD@{43}: commit: UI members and integrated members
+[33me90ce08[m HEAD@{44}: commit: integrated modules
+[33m9300fc0[m HEAD@{45}: commit: integrate add course and classroom slug
+[33m030ff31[m HEAD@{46}: commit: integrated community posts and added modal UI
+[33m6aa7c4c[m HEAD@{47}: commit: added responsive community and added modals
+[33m5dec85b[m HEAD@{48}: commit: integrate calendar
+[33mf63f2fc[m HEAD@{49}: commit: integrated classroom, community, paginations
+[33m47381cb[m HEAD@{50}: clone: from https://github.com/bobobekturdiyev/Learnify-front-end.git
